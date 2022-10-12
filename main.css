@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  flex: wrap;
+  
+}
+.pet-name{
+  text-align: center;
+}
+.card-image{
+  text-align: center;
+  border-radius: 25pxcod;
+}
