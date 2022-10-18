@@ -1,12 +1,17 @@
-body {
+#root{
   display: flex;
-  flex: wrap;
-  
-}
-.pet-name{
+  flex-wrap: wrap;
   text-align: center;
+
 }
 .card-image{
   text-align: center;
   border-radius: 25pxcod;
+}
+.text-center{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.btn.btn-success{
+  background-color: teal;
 }
